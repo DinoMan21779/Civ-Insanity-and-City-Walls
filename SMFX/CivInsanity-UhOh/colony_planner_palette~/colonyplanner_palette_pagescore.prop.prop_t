@@ -1,0 +1,8 @@
+keys palettePalettePages
+	Adventure_props_palette_pages~!cityplanner_page_space_buildings
+	Adventure_props_palette_pages~!cityplanner_page_civicobjects
+	Adventure_props_palette_pages~!colonyplanner_page_ufo
+	Adventure_props_palette_pages~!cityplanner_page_music
+	Adventure_props_palette_pages~!colony_citywalls
+	Adventure_props_palette_pages~!cityplanner_page_space_outfits
+end
